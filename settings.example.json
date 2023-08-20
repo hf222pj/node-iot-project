@@ -1,0 +1,6 @@
+{
+  "serverName": "192.168.1.1",
+  "serverRole": "slave",
+  "mqttBrokerAddress": "tcp://192.168.0.22:1883",
+  "databaseAPIEndpoint": "https://api.server.ai:6002/api"
+}
